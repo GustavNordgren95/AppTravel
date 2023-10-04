@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppWApi", "AppMusicWApi\AppWApi.csproj", "{984D46CE-D8E7-4CD2-A2FE-74FEDFD536C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppWApi", "AppWApi\AppWApi.csproj", "{984D46CE-D8E7-4CD2-A2FE-74FEDFD536C2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configuration", "Configuration\Configuration.csproj", "{5D53E90D-568E-448A-92A1-8358355E9580}"
 EndProject

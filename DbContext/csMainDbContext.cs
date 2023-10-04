@@ -1,14 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
-
 using System.Data;
 using Configuration;
 using Models;
-
 using System;
 using Microsoft.Identity.Client;
-
 using Microsoft.EntityFrameworkCore.Migrations;
-
 using Microsoft.Extensions.Options;
 using DbModels;
 
