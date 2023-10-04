@@ -15,8 +15,6 @@ namespace DbContext;
 
 public class csMainDbContext : Microsoft.EntityFrameworkCore.DbContext
 {
-    static public string Hello { get; } = $"Hello from namespace {nameof(DbContext)}, class {nameof(csMainDbContext)}";
-
     #region class - Table mapping
 
     public DbSet<csAttraction> Attractions { get; set; }
